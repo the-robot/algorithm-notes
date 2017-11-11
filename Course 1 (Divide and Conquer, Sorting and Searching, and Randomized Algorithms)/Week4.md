@@ -48,7 +48,7 @@ Rselect(array A, length n, order statistic i)
 **Cuts of Graphs**
 - a cut of a graph (V, E) is a partition of V into two non-empty sets A and B
 
-![cuts_of_graphs.png](/:storage/yz379wvbjoytx1or.png)
+![cuts_of_graphs.png](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/yz379wvbjoytx1or.png)
 
 - corssing edges of a cut (A, B) are thoese with
   - one endpoint in each of (A, B) *[undirected]*
@@ -60,7 +60,7 @@ Rselect(array A, length n, order statistic i)
 - find fewest number of crossing edges
 - an undirected graph $$G = (V, E)$$
 
-![min_cut_problem.png](/:storage/e7og218gckvjkyb9.png)
+![min_cut_problem.png](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/e7og218gckvjkyb9.png)
 
 - Usage
   - identity network bottlenecks/weaknesses
@@ -92,9 +92,9 @@ Rselect(array A, length n, order statistic i)
 - $$A_{ij}$$ = +1 $$i \rightarrow j$$ or -1 if $$i \leftarrow j$$
 - running time: $$O(V^{2})$$
 
-![example1.png](/:storage/4kfgwdwkjaq93sor.png)
+![example1.png](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/4kfgwdwkjaq93sor.png)
 
-![example2.png](/:storage/lu97ars5fjrftj4i.png)
+![example2.png](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/lu97ars5fjrftj4i.png)
 
 <br>
 
@@ -116,9 +116,9 @@ while there are more than 2 vertices
 return at represented by final 2 vertices
 ```
 
-![image.png](/:storage/4mkhp586lh0py14i.png)
+![image.png](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/4mkhp586lh0py14i.png)
 
-![image.png](/:storage/t2yse9tid4w019k9.png)
+![image.png](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/t2yse9tid4w019k9.png)
 
 <br>
 

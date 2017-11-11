@@ -25,11 +25,11 @@ while X != V:  # main loop
  - Heap is a special case of balanced binary tree data structure where the root-node key is compared with its children and arranged accordingly.
 
 - Min-Heap, where the value of the root node is less than or equal to either of its children
-![min_heap_example.jpg](/:storage/5jkp0hqlmnsl9pb9.jpg)
+![min_heap_example.jpg](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/5jkp0hqlmnsl9pb9.jpg)
 
 
 - Max-Heap, where the value of the root node is greater than or equal to either of its children
-![max_heap_example.jpg](/:storage/51swwdcktob0rudi.jpg)
+![max_heap_example.jpg](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/51swwdcktob0rudi.jpg)
 
 <br>
 
@@ -42,7 +42,7 @@ while X != V:  # main loop
 
 > in Min Heap construction algorithm, we expect the value of the parent node to be less than that of the child node
  
-![max_heap_animation.gif](/:storage/rwa9qrkzzw9g4x6r.gif)
+![max_heap_animation.gif](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/rwa9qrkzzw9g4x6r.gif)
 
 <br>
 
@@ -55,7 +55,7 @@ while X != V:  # main loop
 
 > Deletion in Max (or Min) Heap always happens at the root to remove the Maximum (or minimum) value
 
-![max_heap_animation.gif](/:storage/h6y6yj399dswz5mi.gif)
+![max_heap_animation.gif](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/h6y6yj399dswz5mi.gif)
 
 <br>
 
@@ -68,7 +68,7 @@ parent(i):
   if i is odd:
     parent = floor(position of i/2)
 ```
-![DeepinScreenshot_select-area_20171028024744.png](/:storage/244fjcctzfamj9k9.png)
+![DeepinScreenshot_select-area_20171028024744.png](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/244fjcctzfamj9k9.png)
 
 <br>
 

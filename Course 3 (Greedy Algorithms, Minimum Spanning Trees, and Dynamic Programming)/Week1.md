@@ -98,14 +98,14 @@ while H is not empty:
 
 #### 06. Cuts
 - a cut of a graph, $$G = (V, E)$$ is a partition of $$V$$ into 2 non-empty sets
-![DeepinScreenshot_select-area_20171104035745.png](/:storage/qv0auzw7fnku766r.png)
+![DeepinScreenshot_select-area_20171104035745.png](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/qv0auzw7fnku766r.png)
 
 **Empty Cut Lemma**
 - a graph is not connected, no crossing edges
 
 **Double-Crossing Lemma**
 - suppose the cycle $$C \subseteq E$$ has an edge crossing the cut $$(A, B)$$: then so does some other edge of $$C$$
-![DeepinScreenshot_select-area_20171104043200.png](/:storage/h60eokqzgotdfgvi.png)
+![DeepinScreenshot_select-area_20171104043200.png](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/h60eokqzgotdfgvi.png)
 
 **Lonely Cut Corollary**
 - if $$e$$ is the only edge crossing some cut $$(A, B)$$, then it is not in any cycle

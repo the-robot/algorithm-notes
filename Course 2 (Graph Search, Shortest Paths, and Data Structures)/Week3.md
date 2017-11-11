@@ -42,7 +42,7 @@ When to use
 - parent node is a key
 - all nodes in left child $$\leq$$ key node and all nodes in right child $$\geq$$ key node
 
-![DeepinScreenshot_select-area_20171028152702.png](/:storage/201syawm3ht73nmi.png)
+![DeepinScreenshot_select-area_20171028152702.png](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/201syawm3ht73nmi.png)
 
 | Operation | Running time |
 |:---------:|:------------:|
@@ -144,10 +144,10 @@ if a < i-1:
 **Left rotations**
 - runs in constant time (constant number of pointers)
 - locally re-balance a search tree, without vilating the search tree properties
-![DeepinScreenshot_select-area_20171028235559.png](/:storage/cz4m1fm0cazl4n29.png)
+![DeepinScreenshot_select-area_20171028235559.png](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/cz4m1fm0cazl4n29.png)
 
 <br>
 
 **Right rotations**
 - right rotation is the inverse of left rotation
-![DeepinScreenshot_select-area_20171028235751.png](/:storage/lm8icmhlqmcs1yvi.png)
+![DeepinScreenshot_select-area_20171028235751.png](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/lm8icmhlqmcs1yvi.png)
