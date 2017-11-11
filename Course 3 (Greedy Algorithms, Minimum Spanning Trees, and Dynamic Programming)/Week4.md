@@ -28,7 +28,7 @@ To consider all subsets of items, there can be two cases for every item: (1) the
 
 *If weight of nth item is greater than W, then the nth item cannot be included and case 1 is the only possibility.*
 
-![IMG_20171110_191501_01.jpg](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/uawdddbpgsvbcsor.jpg =500x)
+![IMG_20171110_191501_01.jpg](https://raw.githubusercontent.com/Hadesy2k/algnotes/master/images/uawdddbpgsvbcsor.jpg)
 
 <br>
 
