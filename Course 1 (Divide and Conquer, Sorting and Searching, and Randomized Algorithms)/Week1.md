@@ -23,7 +23,7 @@ Week 1
 
 **Part 2**  
 - Karatsuba Multiplication
-![Karatsuba Multiplication](https://i.imgur.com/TDubvbW.png =450x250)
+![Karatsuba Multiplication](https://i.imgur.com/TDubvbW.png)
 <br/>
 
 **Part 3 (Merge Sort Algorithm)**  
@@ -32,7 +32,7 @@ Week 1
 <br/>
 
 **Part 4 (Merge Sort Analysis)**
-![Recursion Tree of Merge Sort](https://i.imgur.com/UkErZmV.png =450x250)
+![Recursion Tree of Merge Sort](https://i.imgur.com/UkErZmV.png)
 - Recursion Tree
     - n = size of original array, j = level of the recursion tree
     - number of subproblem, $$2^{j}$$
